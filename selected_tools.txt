@@ -1,5 +1,5 @@
 
 Data portals: CKAN, Socrata, ONS, Mendeley data, Figshare, Kaggle, Data.world
-Online Sheets: Google sheets, Excel Online, Airtables, Jupyter Notebooks, Zoho Sheets, EtherCalc
+Online Sheets: Google sheets, Excel Online, Airtables, Jupyter Notebooks, Zoho Sheets, EtherCalc, Floobits
 Wikibased platforms: Openstreetmap, Wikidata
-Versioning tools: Github, dat project, Floobits, OSF, Git
+Versioning tools: Github, dat project, OSF, Git
