@@ -1,0 +1,50 @@
+Interview Schedule
+  Thank you for agreeing to be interviewed
+  Thank you for the information you provided in the scoping survey
+
+Just going through a few points before we start:
+  Approximately 45 minutes
+  Informed consent
+  You don ́t need to answer any questions you don ́t like to
+  No right or wrong answers
+  You can stop at any point without giving a reason
+  Will be recorded but data kept confidentially, secured and deleted after analysis
+  If quotes will be used, they will be redacted to not reveal your identity
+
+Outlook and purpose:
+  About your experiences of using data in your work
+  Interviews will be analysed and the results can help to understand the processes of how data is used
+  Help improve how people engage with data
+
+Content:
+  We are interested in the whole process of how you are using data in your work to help make decisions
+  We are interested in your experiences and thoughts when using data 
+
+Interview questions:
+  What’s your job title, please describe your role? 
+  How do you work with data:
+    What types of data, how does the data look like (e.g. spreadsheets, graphs, CSV,..)
+  What do you typically do with the data? (high level task)
+    Do you work mostly alone or with others?
+  How often do you make decisions within your work that are fully or partially based on data? 
+    Talk me through how you made that decision? What sources did you consult? Did you discuss your decisions with others?
+  With how many different datasets (sources) are you interacting in a day / in a week?
+  Do you search for new datasets?
+  Exploring a dataset:
+    When you see data on something which is new for you what do you look at first? When you open a dataset you’ve never seen before, what do you look at first?
+    How do you evaluate data / a new data set to whether it is useful for you?
+    What are your requirements on a data set - which kind of information are you looking for initially?
+  Which tools do you use to work with the data? 
+    What do you like about the tool you are using? 
+    What do you dislike?
+  Where would you say have you learned the skills to search and use the data?
+    In your formal education, on the job, colleagues, self-taught? 
+  What are your personal challenges in working with data?
+    Things that you find tricky, things you complain about
+  How would your ideal process of using data to make a decision (personal example given in the beginning of the interview) look like? 
+    Describe the steps and what would need to work for that ideal process
+    What would make it easier? 
+
+Debrief:
+  Is there anything else you would like to say before we end the interview?
+  Thank you for taking the time. We very much appreciate it! If you like a follow-up information to get to know more about the results let us know. You have our email address.
